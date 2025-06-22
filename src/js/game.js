@@ -1,6 +1,6 @@
 // Отвечает за работу приложения (загрузку и сохранение)
 
-import Character from "./domain";
+import Character from "./domain.js";
 
 export default class Game {
   start() {
